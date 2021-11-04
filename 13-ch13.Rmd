@@ -75,7 +75,7 @@ The concepts of internal and external validity discussed in Key Concept 9.1 are 
 
 3. **Attrition**
 
-    Attrition may result in a nonrandomly selected sample. If subjects systematically drop out of the study after beeing assigned to the control or the treatment group (systematic means that the reason of the dropout is related to the treatment) there will be correlation between $X_i$ and $u_i$ and hence bias in the OLS estimator of the treatment effect.
+    Attrition may result in a nonrandomly selected sample. If subjects systematically drop out of the study after being assigned to the control or the treatment group (systematic means that the reason of the dropout is related to the treatment) there will be correlation between $X_i$ and $u_i$ and hence bias in the OLS estimator of the treatment effect.
 
 4. **Experimental Effects**
   
